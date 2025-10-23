@@ -1,0 +1,36 @@
+PODS:
+  - AEXML (4.3.3)
+  - Alamofire (4.9.1)
+  - PromiseKit (6.2.8):
+    - PromiseKit/CorePromise (= 6.2.8)
+    - PromiseKit/Foundation (= 6.2.8)
+    - PromiseKit/UIKit (= 6.2.8)
+  - PromiseKit/CorePromise (6.2.8)
+  - PromiseKit/Foundation (6.2.8):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.2.8):
+    - PromiseKit/CorePromise
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - AEXML (~> 4.3.0)
+  - Alamofire (~> 4.9.1)
+  - PromiseKit (~> 6.2.5)
+  - SwiftyJSON (~> 4.1.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AEXML
+    - Alamofire
+    - PromiseKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AEXML: 601f41fcaa7bda7605cad153b0f43db9ec006c0f
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  PromiseKit: 6788ce1a0ed5448b83d4aaf56b9fc49fb7647d32
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 86dd57a1c050051f8cde8e0a76ccb6aebaf5c181
+
+COCOAPODS: 1.8.4
